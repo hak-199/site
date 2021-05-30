@@ -335,6 +335,9 @@ section{
 	align-items: center;
 	justify-content: space-around;
 }
+.form form input{
+	outline: none;
+}
 .input{
 	width: 350px;
 	height: 40px;
